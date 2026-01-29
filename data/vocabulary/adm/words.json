@@ -16,5 +16,19 @@
     "translatedText": "This is a beginning",
     "grammarCheck": null,
     "timestamp": "2026-01-29T10:03:27.065Z"
+  },
+  {
+    "originalText": "Among Millennial women, 75% say this country needs to continue making changes to achieve gender equality in the workplace, compared with 57% of Millennial men.",
+    "translatedText": "在千禧一代女性中，75%的人表示这个国家需要继续做出改变，以实现工作场所的性别平等，而千禧一代男性的这一比例为57%。",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "可以考虑在句子开头添加过渡词如'Studies show that'或'Research indicates that'来增强学术性",
+        "为了提高清晰度，可以在'workplace'前添加'developing'或'corporate'等形容词来具体化语境"
+      ],
+      "overallFeedback": "这个句子语法结构正确，表达清晰。句子结构为：'Among Millennial women'（介词短语作状语），主语是'75%'，谓语是'say'，宾语是'this country needs to continue making changes to achieve gender equality in the workplace'（宾语从句），'compared with 57% of Millennial men'（过去分词短语作状语）。整体而言，这是一个语法准确、逻辑清晰的比较句。"
+    },
+    "timestamp": "2026-01-29T10:17:13.826Z"
   }
 ]
