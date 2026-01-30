@@ -30,5 +30,20 @@
       "overallFeedback": "这个句子语法结构正确，表达清晰。句子结构为：'Among Millennial women'（介词短语作状语），主语是'75%'，谓语是'say'，宾语是'this country needs to continue making changes to achieve gender equality in the workplace'（宾语从句），'compared with 57% of Millennial men'（过去分词短语作状语）。整体而言，这是一个语法准确、逻辑清晰的比较句。"
     },
     "timestamp": "2026-01-29T10:17:13.826Z"
+  },
+  {
+    "originalText": "Conduct a retrieval test to check if RAGFlow can recover the intended content for the LLM. If you have adjusted the default settings, such as keyword similarity weight or similarity threshold, to achieve the optimal results, be aware that these changes will not be automatically saved. You must apply them to your chat assistant settings or the Retrieval agent component settings.",
+    "translatedText": "进行检索测试，检查RAGFlow是否可以恢复LLM的预期内容。如果您调整了默认设置，如关键字相似性权重或相似性阈值，以获得最佳结果，请注意这些更改不会自动保存。您必须将它们应用于聊天助手设置或检索代理组件设置。",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "文本整体语法正确，结构清晰。建议注意条件句的使用，本文中 'If you have adjusted...' 是一个很好的条件状语从句示例",
+        "注意专业术语的使用：RAGFlow, LLM (Large Language Model), Retrieval agent 等术语使用恰当",
+        "句子连接流畅，使用了 'such as' 列举示例，'be aware that' 引起注意，'or' 连接并列选项，这些都是很好的写作技巧"
+      ],
+      "overallFeedback": "这段文本语法完全正确，没有发现任何语法错误。文本结构合理，使用了恰当的条件句和并列结构，专业术语使用准确，表达清晰明确。是一段高质量的技术说明文本。"
+    },
+    "timestamp": "2026-01-30T10:00:44.125Z"
   }
 ]
