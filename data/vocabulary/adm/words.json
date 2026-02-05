@@ -183,5 +183,11 @@
       "overallFeedback": "单词 'accurate' 本身拼写正确，词性为形容词，意为'准确的、精确的'。唯一的问题是单词前有一个不必要的空格，建议在正式写作中去除多余空格。"
     },
     "timestamp": "2026-02-05T04:56:28.274Z"
+  },
+  {
+    "originalText": "motivate",
+    "translatedText": "激励",
+    "grammarCheck": null,
+    "timestamp": "2026-02-05T05:01:04.406Z"
   }
 ]
