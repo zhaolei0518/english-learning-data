@@ -140,5 +140,20 @@
       "overallFeedback": "该单词拼写完全正确，是一个常用的副词，表示轻微的程度。"
     },
     "timestamp": "2026-02-05T04:52:28.301Z"
+  },
+  {
+    "originalText": " gradually",
+    "translatedText": "逐渐",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "gradually 是一个常用副词，表示'逐渐地，渐渐地'",
+        "注意副词在句中的位置，通常放在动词前或句末，如：The situation gradually improved. 或 The situation improved gradually.",
+        "可以学习相关的同义词：slowly, progressively, step by step"
+      ],
+      "overallFeedback": "单词拼写正确，没有语法错误。这是一个规范的英文副词。"
+    },
+    "timestamp": "2026-02-05T04:53:19.860Z"
   }
 ]
