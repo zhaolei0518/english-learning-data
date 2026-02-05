@@ -126,5 +126,19 @@
       "overallFeedback": "单词拼写完全正确，无语法错误。这是一个常用的商务和学术英语词汇。"
     },
     "timestamp": "2026-02-05T04:45:13.561Z"
+  },
+  {
+    "originalText": "slightly",
+    "translatedText": "略微",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "这是一个常用的程度副词，表示'轻微地、略微地'",
+        "可以用于修饰形容词或动词，如：slightly better (稍微好一点), slightly increase (略微增加)"
+      ],
+      "overallFeedback": "该单词拼写完全正确，是一个常用的副词，表示轻微的程度。"
+    },
+    "timestamp": "2026-02-05T04:52:28.301Z"
   }
 ]
