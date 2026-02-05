@@ -169,5 +169,19 @@
       "overallFeedback": "单词拼写正确，无语法错误。这是一个使用频率很高的形容词。"
     },
     "timestamp": "2026-02-05T04:54:58.153Z"
+  },
+  {
+    "originalText": " accurate",
+    "translatedText": "准确的",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "单词拼写正确，但前面有一个多余的空格",
+        "注意单词前后的空格使用，确保格式整洁"
+      ],
+      "overallFeedback": "单词 'accurate' 本身拼写正确，词性为形容词，意为'准确的、精确的'。唯一的问题是单词前有一个不必要的空格，建议在正式写作中去除多余空格。"
+    },
+    "timestamp": "2026-02-05T04:56:28.274Z"
   }
 ]
