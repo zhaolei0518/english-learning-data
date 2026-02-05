@@ -195,5 +195,20 @@
     "translatedText": "激励",
     "grammarCheck": null,
     "timestamp": "2026-02-05T05:05:52.715Z"
+  },
+  {
+    "originalText": "deserves",
+    "translatedText": "值得",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "单词 'deserves' 是动词 'deserve'（值得、应得）的第三人称单数形式，拼写正确",
+        "使用示例：He deserves a promotion.（他应该得到晋升）",
+        "注意区分：deserve（原形）、deserves（第三人称单数）、deserved（过去式）、deserving（现在分词）"
+      ],
+      "overallFeedback": "该单词拼写完全正确，无语法错误。这是一个常用动词的正确形式。"
+    },
+    "timestamp": "2026-02-05T05:06:52.184Z"
   }
 ]
