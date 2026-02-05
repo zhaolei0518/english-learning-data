@@ -155,5 +155,19 @@
       "overallFeedback": "单词拼写正确，没有语法错误。这是一个规范的英文副词。"
     },
     "timestamp": "2026-02-05T04:53:19.860Z"
+  },
+  {
+    "originalText": "casual",
+    "translatedText": "随意的",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "\"casual\" 是一个常用形容词，表示「随意的、非正式的、休闲的」，拼写和用法都正确",
+        "可以学习相关搭配：casual wear (休闲装)、casual conversation (随意交谈)、casual relationship (非正式关系)"
+      ],
+      "overallFeedback": "单词拼写正确，无语法错误。这是一个使用频率很高的形容词。"
+    },
+    "timestamp": "2026-02-05T04:54:58.153Z"
   }
 ]
