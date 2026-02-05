@@ -111,5 +111,20 @@
     "translatedText": "但它仍然遥不可及",
     "grammarCheck": null,
     "timestamp": "2026-02-05T04:37:51.267Z"
+  },
+  {
+    "originalText": "presentation",
+    "translatedText": "演示",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "这是一个正确拼写的单词，表示'展示、演示、介绍'等意思",
+        "可以学习相关词组：give a presentation (做演讲)、presentation skills (演讲技巧)",
+        "注意区分：present (动词/形容词) 和 presentation (名词) 的用法"
+      ],
+      "overallFeedback": "单词拼写完全正确，无语法错误。这是一个常用的商务和学术英语词汇。"
+    },
+    "timestamp": "2026-02-05T04:45:13.561Z"
   }
 ]
