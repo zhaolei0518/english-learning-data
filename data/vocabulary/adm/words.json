@@ -245,5 +245,20 @@
       "overallFeedback": "文本正确无误。'revenue'是一个常用的商务英语词汇，拼写和用法都正确。"
     },
     "timestamp": "2026-02-25T01:51:18.391Z"
+  },
+  {
+    "originalText": "signups, trials, payments, downgrades, and churn",
+    "translatedText": "注册、试用、付款、降级和流失",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "这是一个正确的并列名词短语，常用于描述用户生命周期的各个阶段",
+        "注意并列结构中最后一项前通常不加逗号（美式英语风格），如需要可改为 'signups, trials, payments, downgrades, and churn'（牛津逗号风格）",
+        "可以学习更多商业术语：retention（留存）、conversion（转化）、engagement（参与度）等"
+      ],
+      "overallFeedback": "文本语法完全正确。这是一个标准的名词并列结构，用逗号分隔，最后用'and'连接。在商业分析场景中，这种表达方式非常地道和专业。"
+    },
+    "timestamp": "2026-02-25T01:51:54.435Z"
   }
 ]
