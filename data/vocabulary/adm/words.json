@@ -216,5 +216,20 @@
     "translatedText": "通用数据结构集",
     "grammarCheck": null,
     "timestamp": "2026-02-25T01:17:50.530Z"
+  },
+  {
+    "originalText": "before you chase more users, check for leaks.",
+    "translatedText": "在追逐更多用户之前，请检查是否存在泄漏。",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "这是一个正确的祈使句，句首字母可以大写使其更正式：\"Before you chase more users, check for leaks.\"",
+        "句子结构完整，使用了从句(before引导的时间状语从句)和主句，语法正确",
+        "注意祈使句在正式写作中通常句首字母大写，但在非正式场合(如社交媒体、笔记)小写也可接受"
+      ],
+      "overallFeedback": "句子语法完全正确。这是一个结构清晰的祈使句，使用before引导时间状语从句，表达了先检查漏洞再追求更多用户的建议。唯一可以改进的是将句首字母大写以符合标准书写规范，但这属于格式问题而非语法错误。"
+    },
+    "timestamp": "2026-02-25T01:50:50.302Z"
   }
 ]
