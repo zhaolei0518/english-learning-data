@@ -231,5 +231,19 @@
       "overallFeedback": "句子语法完全正确。这是一个结构清晰的祈使句，使用before引导时间状语从句，表达了先检查漏洞再追求更多用户的建议。唯一可以改进的是将句首字母大写以符合标准书写规范，但这属于格式问题而非语法错误。"
     },
     "timestamp": "2026-02-25T01:50:50.302Z"
+  },
+  {
+    "originalText": "revenue",
+    "translatedText": "收入",
+    "grammarCheck": {
+      "hasErrors": false,
+      "corrections": [],
+      "suggestions": [
+        "这是一个正确的英文单词，意为'收入、收益、税收'",
+        "可以学习相关用法：generate revenue (产生收益)、revenue stream (收入来源)、annual revenue (年收入)"
+      ],
+      "overallFeedback": "文本正确无误。'revenue'是一个常用的商务英语词汇，拼写和用法都正确。"
+    },
+    "timestamp": "2026-02-25T01:51:18.391Z"
   }
 ]
